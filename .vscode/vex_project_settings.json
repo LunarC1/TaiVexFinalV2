@@ -1,0 +1,18 @@
+{
+	"project": {
+		"name": "codebaseRewriteV3",
+		"slot": 2,
+		"description": "Empty V5 C++ Project",
+		"platform": "V5",
+		"creationDate": "Sun, 13 Oct 2024 09:15:59 GMT",
+		"language": "cpp",
+		"sdkVersion": "V5_20240223_11_00_00",
+		"cpp": {
+			"includePath": []
+		}
+	},
+	"extension": {
+		"version": "0.6.0",
+		"json": 1
+	}
+}
